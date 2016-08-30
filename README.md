@@ -1,2 +1,3 @@
 # hello-world
-Just Another repository
+
+This is a sample Read-Me file.
